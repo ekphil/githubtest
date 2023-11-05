@@ -1,2 +1,2 @@
 # githubtest
-> hey, just ---exploring the github environment
+> hey, just --- exploring the github environment
